@@ -1,5 +1,6 @@
 {
-  "name": "01-redux-intro",
+  "homepage": "https://vonschappler.github.io/react-redux-bank",
+  "name": "react-redux-bank",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
